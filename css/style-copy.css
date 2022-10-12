@@ -1,0 +1,163 @@
+.header
+{
+    height: 50px;
+    width: 1690px;
+    background: #676d6a;
+    text-align: center;
+}
+
+.container
+{
+    max-width: 1700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    background: #070707;
+    height: 1000px;
+}
+.container2
+{
+    max-width: 1700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    background: #754903;
+    height: 800px;
+}
+.container3
+{
+    max-width: 1700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    background: #a0826a;
+    height: 800px;
+}
+
+.container h1
+{
+    color: #fefefe;
+}
+.list-nav li 
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    float:left;
+    display: inline-table;
+    padding-left: 30px;
+}
+.list-nav
+{
+    background: #eead8a;
+    width: 1660px;
+    padding-left: 60px;
+    height: 60px;
+}
+.list-nav a
+{
+    text-decoration: none;
+    color: #fdf9fa;
+
+}
+.list-nav a:hover {
+    color: #76eefe;
+}
+.content
+{
+    background-color: #ffffff;
+    width: 1660px;
+    height:400px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.content1
+{
+    background-image: url('../img/profile.jpg');
+    height:400px;
+    width:1660px;
+}
+.content2
+{
+    text-align: start;
+    background-color: #ffffff;
+    width: 1660px;
+    height:600px;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-top: -30px;
+    height:600px;
+}
+.content2 img
+{
+    padding-left: 65px;
+    height: 300px;
+    width: 250px;
+    float: left;
+}
+.content2 b
+{
+    text-align: start;
+}
+.content2 h3
+{
+    padding-left: 50px;
+}
+.content2 h5
+{
+    padding-left: 50px;
+}
+#content-img
+{
+    width: 1660px;
+    padding-right:60px;
+    height:600px;
+}
+.list-nav 
+{
+    padding: 0;
+    margin: 0;
+}
+.content-header
+{ 
+    margin-bottom:0;
+    color:#f8f7f7;
+    text-align: center;
+    padding-top: 180px;
+}
+.content-text{
+    font-size: 20px;
+    color:#fdfafa;
+    margin: 0;
+    text-align: center;
+}
+.navbar 
+{
+    text-align: center;
+    margin-bottom: 25px;
+    width:1690px;
+    align-items: center;
+    margin: left 0;
+    text-decoration-color: #fdf9fa;
+}
+.footer
+{
+    background: #fefefe;
+}
+.ikon
+{
+    text-align: start;
+    padding-right: 15px;
+    border-radius: 10%;
+    
+}
+.ikon img
+{
+    height: 400px;
+    width: 400px;
+    padding-right: 50px;
+    float: right;
+
+}
